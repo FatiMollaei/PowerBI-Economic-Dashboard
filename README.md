@@ -131,12 +131,6 @@ The dashboard follows a **star schema** with one **fact table** (`WEO`) and mult
 
 ---
 
-## 📷 Preview
-
-*(Screenshots of dashboard pages: Overview, Bubble chart, Tooltips, Country comparisons)*
-
----
-
 ## 📄 License
 
 MIT License – free to use with attribution.
